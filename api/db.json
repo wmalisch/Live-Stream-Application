@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "This is my first stream, lets see if this works. yooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "userId": "115874930571408190271",
+      "id": 1
+    },
+    {
+      "title": "Lets build another",
+      "description": "for the fun of it",
+      "userId": "115874930571408190271",
+      "id": 2
+    },
+    {
+      "title": "Build one as malisch.will",
+      "description": "Malisch.wills first stream. The editing process works?",
+      "id": 3
+    },
+    {
+      "title": "gehe",
+      "description": "ahha",
+      "id": 4
+    },
+    {
+      "title": "moms first stream",
+      "description": "i am a dust",
+      "userId": "107451990705031563044",
+      "id": 6
+    }
+  ]
+}
